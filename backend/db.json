@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Blue Pen",
+            "price": 5.90
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro",
+            "price": 4999.90
+        },
+        {
+            "id": 1,
+            "name": "Galaxy S9",
+            "price": 1899.90
+        }
+    ]
+}
